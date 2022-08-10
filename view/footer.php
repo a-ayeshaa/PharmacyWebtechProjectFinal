@@ -1,0 +1,1 @@
+<a href="../controller/Logout.php" onclick="return alerting();" class="link">LOGOUT </a>
